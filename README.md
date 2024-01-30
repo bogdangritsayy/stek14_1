@@ -32,4 +32,4 @@ Lista
   else:
     print("Bye world")
 ``` 
-![picture/git.jpg]("images.jpg")
+![picture/git.jpg](images.jpg)
